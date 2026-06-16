@@ -30,7 +30,7 @@ Over time, I’ve developed a strong focus on **debugging, systems thinking, and
 
 ## What I’m Focused On
 
-I’m focused on delivering customer-centric engineering through the combination of design, development, tooling, and technical support.
+I’m focused on delivering customer-centric engineering through the combination of design, development, tooling, and technical support. Based in Ireland, I am well-positioned for overlapping EMEA/US coverage.
 
 - Building systems and tools that improve how customers interact with APIs  
 - Taking ownership of issues from first report through to resolution
